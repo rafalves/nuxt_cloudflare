@@ -9,7 +9,7 @@
 	//"main": "./.output/server/index.mjs",
 	"compatibility_date": "2025-03-21",
 	"assets": {
-		"binding": "ASSETS",
+		//"binding": "ASSETS",
 		"directory": "./.output/public/"
 	},
 	"observability": {
